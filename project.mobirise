@@ -21,8 +21,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 91,
-    "versionPublish": "4.12.3"
+    "uniqCompNum": 97,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -78,7 +79,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "25",
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -116,7 +117,7 @@
               "size": 0
             }
           },
-          "title": "Meet Our Team",
+          "title": "<b>Meet Our Team</b>",
           "text": "<p>Some of the more rewarding projects we have had the honour to be involved in, <b>started with simple ideas.</b></p>",
           "alias": "purity/components",
           "_tags": [
@@ -172,7 +173,7 @@
               "size": 0
             }
           },
-          "title": "We are Creativity",
+          "title": "<b>We are Creativity</b>",
           "text": "<p><b>Creativity pervades human life</b>. It is the mark of individuality, the vehicle of self-expression, and the engine of progress in every human endeavor.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -210,11 +211,11 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
-          "title": "Projects &amp; Collections",
+          "title": "<b>Projects &amp; Collections</b>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Explore, enjoy, acquire <b>and enjoy more!</b>",
+          "text": "Explore, acquire <b>and enjoy our artworks.</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10% OFF</a>",
           "alias": "purity/components",
           "_tags": [
@@ -324,7 +325,7 @@
               "size": 0
             }
           },
-          "title": "<i><b>'The Art of dreaming<br>GRANADA by AI</b>'</i>",
+          "title": "<i><b>'The Art </b>of dreaming<br>GRANADA<b> by AI</b>'</i>",
           "text": "",
           "alias": "purity/components",
           "_tags": [
@@ -380,7 +381,7 @@
               "size": 0
             }
           },
-          "title": "<b>'85 eruptive days<br>in LA PALMA'</b>",
+          "title": "<b>'85 eruptive </b>days<br>in <b>LA PALMA'</b>",
           "text": "Colection",
           "alias": "purity/components",
           "_tags": [
@@ -395,6 +396,36 @@
               "font-size": "23px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "text": "Use some<b> POD 'Print On Demand'</b> services",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2l"
         },
         {
           "_params": {
@@ -417,9 +448,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Spreadshop.com</b>",
+          "title": "<b>&gt; Spreadshop</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -451,7 +482,7 @@
           },
           "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -482,7 +513,7 @@
           },
           "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -504,7 +535,7 @@
           "_anchor": "header3-z"
         },
         {
-          "text": "<p>We also offer <b>our original image files</b> to create prints on your favorite <b>Print on Demand</b> service and/or <b>to create your own designs</b> with them. To do this, contact us through <b><i>whatsapp </i></b>and tell us your particular wishes or needs.</p>",
+          "text": "<p>We also offer <b>our original image files</b> to create prints on your favorite <b>Print on Demand</b> service and/or <b>to create your own designs</b> with them. To do this, contact us <b><i>&nbsp;</i></b>and tell us your particular wishes or needs.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -512,6 +543,34 @@
           "_name": "content1",
           "_params": {},
           "_anchor": "content1-y"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<b>Custom</b> Services",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j"
+        },
+        {
+          "text": "<p>We also create bespoke <b>artwork and graphic designs</b> in themes, styles or sizes to meet your needs and desires. Contact Us</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {},
+          "_anchor": "content1-2k",
+          "_styles": {
+            "P": {
+              "font-size": "21px"
+            }
+          }
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/+34644263289\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>WhatsApp</a> ",
@@ -922,57 +981,34 @@
           "_anchor": "slider2-8"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "26",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i><b>PoD&nbsp;</b></i>'Print On Demand'",
-          "text": "<p>Use the service of our partners to print our artworks.</p>",
+          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "text": "Use the service of our partners <b>to print our artworks.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-n"
+          "_name": "header1",
+          "_anchor": "header1-2m"
         },
         {
           "_params": {
@@ -1475,57 +1511,34 @@
           "_anchor": "slider2-1b"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "26",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i><b>PoD&nbsp;</b></i>'Print On Demand'",
-          "text": "<p>Use the service of our partners to print our artworks.</p>",
+          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "text": "Use the service of our partners <b>to print our artworks.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1c"
+          "_name": "header1",
+          "_anchor": "header1-2o"
         },
         {
           "_params": {
@@ -1548,9 +1561,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Spreadshop.com</b>",
+          "title": "<b>&gt; Spreadshop</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1582,7 +1595,7 @@
           },
           "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1613,7 +1626,7 @@
           },
           "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1995,57 +2008,34 @@
           "_anchor": "slider2-1s"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "26",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i><b>PoD&nbsp;</b></i>'Print On Demand'",
-          "text": "<p>Use the service of our partners to print our artworks.</p>",
+          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "text": "Use the service of our partners <b>to print our artworks.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1t"
+          "_name": "header1",
+          "_anchor": "header1-2n"
         },
         {
           "_params": {
@@ -2070,7 +2060,7 @@
           },
           "title": "<b>&gt; Spreadshop.com</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2102,7 +2092,7 @@
           },
           "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2133,7 +2123,7 @@
           },
           "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
