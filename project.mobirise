@@ -14,7 +14,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/artgalleryicon-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -417,7 +417,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "title": "<b>Artwork Decor</b><br>How To Make a Copy Of this Art Print?",
           "text": "Use some<b> POD 'Print On Demand'</b> services",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -425,7 +425,12 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-2l"
+          "_anchor": "header1-2l",
+          "_styles": {
+            "H1": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_params": {
@@ -653,8 +658,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1000,7 +1005,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "title": "<b>Artwork Decor</b><br>How To Make a Copy Of this Art Print?",
           "text": "Use the service of our partners <b>to print our artworks.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -1008,7 +1013,12 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-2m"
+          "_anchor": "header1-2m",
+          "_styles": {
+            "H1": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_params": {
@@ -1206,8 +1216,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1530,7 +1540,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
+          "title": "<b>Artwork Decor</b><br>How To Make a Copy Of this Art Print?",
           "text": "Use the service of our partners <b>to print our artworks.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -1538,7 +1548,12 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-2o"
+          "_anchor": "header1-2o",
+          "_styles": {
+            "H1": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_params": {
@@ -1736,8 +1751,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -2028,14 +2043,19 @@
             "overlayOpacity": 0.5
           },
           "title": "<b>Artwork Decor</b><br>How To Make A Copy Of this Art Print?",
-          "text": "Use the service of our partners <b>to print our artworks.</b>",
+          "text": "Use the service of our partners to print our artworks",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-2n"
+          "_anchor": "header1-2n",
+          "_styles": {
+            "B": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_params": {
