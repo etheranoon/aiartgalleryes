@@ -387,7 +387,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-l",
           "_styles": {
@@ -417,9 +417,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Spreadshop</b>",
+          "title": "<b>&gt; Spreadshop.com</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -449,9 +449,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Europosters</b>",
+          "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -480,7 +480,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; RedBubble</b>",
+          "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
@@ -995,9 +995,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Spreadshop</b>",
+          "title": "<b>&gt; Spreadshop.com</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1027,9 +1027,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Europosters</b>",
+          "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1058,7 +1058,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; RedBubble</b>",
+          "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
@@ -1548,9 +1548,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Spreadshop</b>",
+          "title": "<b>&gt; Spreadshop.com</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1580,9 +1580,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Europosters</b>",
+          "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1611,7 +1611,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; RedBubble</b>",
+          "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
@@ -2068,9 +2068,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Spreadshop</b>",
+          "title": "<b>&gt; Spreadshop.com</b>",
           "text": "Print our designs in Photo paper.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ai-art-gallery.myspreadshop.es/\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2100,9 +2100,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; Europosters</b>",
+          "title": "<b>&gt; Posters.es</b>",
           "text": "Mainly, our raw images in&nbsp;Photo paper,&nbsp;Canvas Prints,&nbsp;Wallpaper Murals &amp;&nbsp;Stickers",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Go</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.posters.es/artist/ai-art-gallery/\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2131,7 +2131,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>&gt; RedBubble</b>",
+          "title": "<b>&gt; RedBubble.com</b>",
           "text": "Our designs printed in dozens of products",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://redbubble.com/es/people/AiArtGalleryL\" data-toolbar=\"-mbrBtnMove\">Go</a>",
           "alias": "purity/components",
